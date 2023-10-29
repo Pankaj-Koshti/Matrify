@@ -1,0 +1,96 @@
+\documentclass{article}
+\usepackage{graphicx} 
+
+\title{\textbf{Matrix Calculator}}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+Matrix mathematics plays a fundamental role in a wide range of scientific and engineering fields, from  using the matrix algebra various complex problems can be solved easily.
+At some stages the operations may take very complex and lengthy calculation to solve.To address the growing need for a versatile and user-friendly matrix calculator, I present the "Matrix Calculator" project.
+
+\subsection{Project Overview}
+The Matrix Calculator is a versatile tool designed to perform a wide range of matrix operations, simplifying complex mathematical tasks involving matrices. This project was developed to provide an accessible and efficient solution for working with matrices. 
+
+\subsection{Purpose and Significance}
+Matrix operations, such as addition, subtraction, multiplication, and the determination of properties like symmetry and orthogonality. The Matrix Calculator project aims to:
+
+\begin{itemize}
+    \item Provide a user-friendly terminal based interface for performing essential matrix operations.
+    \item Offers various matrix operations related to its algebra and properties.
+    \item Serve as an educational resource, helping students and learners grasp the principles of matrix mathematics.
+\end{itemize}
+
+With the Matrix Calculator, users can save their time, and eliminate the potential for human error in manual calculations. This documentation comprehensively explains the functionalities of the Matrix Calculator, how to use it, and the mathematics behind each operation.
+
+\section{Functionality}
+This project computes following these tasks on matrix: 
+\begin{itemize}
+    \item Matrix addition
+    \item Matrix subtraction
+    \item Matrix multiplication
+    \item Transpose of a matrix
+    \item Inverse of a matrix
+    \item Square matrix 
+    \item Symmetric matrix check
+    \item Skew-symmetric matrix check
+    \item Orthogonal matrix check
+\end{itemize}
+
+\section{Screenshots}
+This section shows the screenshots of output terminal and demonstrate how the user will interact with the project and insert a matrix and can perform desired operation.
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{input.png}
+    \caption{Matrix Calculator in action - Input}
+\end{figure}
+
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{add.png}
+    \caption{Matrix Calculator in action - Addition}
+\end{figure}
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{sub.png}
+    \caption{Matrix Calculator in action - Subtraction}
+\end{figure}
+
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{mul.png}
+    \caption{Matrix Calculator in action - Multiplication}
+\end{figure}
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{inverse.png}
+    \caption{Matrix Calculator in action - Inverse}
+\end{figure}
+
+
+\begin{figure}
+    \centering
+    \includegraphics[width=0.7\textwidth]{properties.png}
+    \caption{Matrix Calculator in action - properties}
+\end{figure}
+
+\section{Conclusion}
+Although this project is performing important operation of matrix but it can be expanded for the wider range of tasks as rank, eigen values, system of linear equations etc. 
+
+\end{document}
