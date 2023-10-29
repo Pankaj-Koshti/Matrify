@@ -1,3 +1,7 @@
+ /* Copyright (C) 2023 - All Rights Reserved
+   You may use, distribute and modify this code under the
+ * terms of the XYZ license
+ */
 package comoany;
 
 import java.util.Scanner;
